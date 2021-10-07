@@ -35,7 +35,6 @@ s[:3]
 #retornar toda a string
 s[:]
 
-
 # Usar a indexação negativa e ler de trás para frente.
 s[-1]
 
@@ -55,11 +54,9 @@ s[::-1]
 s + ' é a melhor maneira de estar preparado para o mercado de trabalho em Ciência de Dados!'
 s = s + ' é a melhor maneira de estar preparado para o mercado de trabalho em Ciência de Dados!'
 
-
 # Multiplicar strings
 letra = 'w'
 letra * 3
-
 
 # ### Funções Built-in de Strings
 # Upper Case 
@@ -73,7 +70,6 @@ s.split()
 
 # Dividir uma string por um elemento específico
 s.split('y')
-
 
 # ### Funções String
 s = 'seja bem vindo ao universo de python'
@@ -105,15 +101,11 @@ s.isspace()
 # Verficar se termina com a letra 'o'
 s.endswith('o')
 
-
-# In[45]:
-
 # Divide a string em 3 elementos:
 # 1) tudo antes de '!'
 # 2) o elemento '!'
 # 3) tudo depois de '!'
 s.partition('!')
-
 
 # Comparação de Strings
 print("Python" == "R")

@@ -60,3 +60,6 @@ round(3.14151922,2)
 # Potência
 pow(4,2)
 pow(5,3)
+
+
+# script desenvolvido com base no material didático da DSA.

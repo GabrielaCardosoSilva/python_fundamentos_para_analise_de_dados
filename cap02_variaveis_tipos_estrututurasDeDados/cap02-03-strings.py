@@ -110,3 +110,5 @@ s.partition('!')
 # Comparação de Strings
 print("Python" == "R")
 print("Python" == "Python")
+
+# script desenvolvido com base no material didático da DSA.

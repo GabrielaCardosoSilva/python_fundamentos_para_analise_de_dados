@@ -55,3 +55,5 @@ nome = "Steve"
 sobrenome = "Jobs"
 fullName = nome + " " + sobrenome
 print(fullName)
+
+# script desenvolvido com base no material didático da DSA.
